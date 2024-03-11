@@ -28,4 +28,4 @@
 - Corporate and Commercial Law
 - Merger and Acquisition
 - Business Management
-- Small and Medium Businesses# Lab2
+- Small and Medium Businesses
